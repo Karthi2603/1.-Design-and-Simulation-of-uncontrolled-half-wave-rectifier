@@ -52,10 +52,16 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/a2f94acd-8218-41c3-aa0a-0b2d1750b40b" />
+
 
 ## Output
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/4e7b3602-d7d6-490f-b17c-82eb43e821f3" />
+
+
 
 ## Result
+Thus the uncontrolled half wave rectifier has been desinged and simulated.
 
 
 
