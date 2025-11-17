@@ -1,6 +1,6 @@
 # 1.-Design-and-Simulation-of-uncontrolled-half-wave-rectifier
 ## AIM
-To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.
+To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.k
 ## APPARATUS REQUIRED
 •	MATLAB
 ## PROCEDURE
